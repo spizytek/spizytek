@@ -8,7 +8,7 @@ I'm an Embedded system developer and IoT solution architect, PCB Designer
 
 
 ## 🛠 Skills
-ASM, C, HTML, CSS, JavaScript, Circuit Design, Electronics...
+ASM, C, IOT solution Architect, Content Writter, Circuit Design, Electronics...
 
 
 ## 🔗 Links
