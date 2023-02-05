@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm an Embedded system developer and IoT solution architect, PCB Designer 
+I'm an Embedded system developer and IoT solution architect, Software Developer, PCB Designer 
 
 
 ## 🛠 Skills
